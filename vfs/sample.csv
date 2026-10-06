@@ -1,0 +1,7 @@
+path,type,content,owner
+/,dir,,root
+/home,dir,,root
+/home/user,dir,,student
+/home/user/readme.txt,file,SGVsbG8gZnJvbSBWRlMhCnRoaXMgaXMgYSB0ZXN0LgpodGVzdCBsaW5lLgpodGVzdCBsaW5lLg==,student
+/home/user/docs,dir,,student
+/home/user/docs/info.txt,file,SW5mb3JtYXRpb24gYWJvdXQgdGhlIHByb2plY3QuCkNvbmZpZ3VyYXRpb24gbWFuYWdlbWVudC4=,student
