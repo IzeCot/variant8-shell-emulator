@@ -1,0 +1,17 @@
+# Проверка команд варианта №8
+
+ls
+ls /home
+cd /home/user
+ls
+tail readme.txt
+uniq readme.txt
+tac readme.txt
+chown admin readme.txt
+ls
+cd docs
+ls
+tail info.txt
+
+# Ошибка должна остановить выполнение скрипта
+unknown_command
